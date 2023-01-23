@@ -1,5 +1,5 @@
 # dice.py
-
+# Successful downloade to new PC
 
 def parse_input(input_string):
     """Return `input string` is an integer number between 1-6. 
