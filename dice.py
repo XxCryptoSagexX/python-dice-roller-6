@@ -8,7 +8,7 @@ def parse_input(input_string):
     If so, return integer with the same value. Otherwise, tell 
     the user to enter a valid number and quit the program.
     """
-    if Input_string.strip() in {"1","2","3","4","5","6"}:
+    if input_string.strip() in {"1","2","3","4","5","6"}:
         return int(input_string)
 
     else:
